@@ -64,43 +64,43 @@
      inkscape:groupmode="layer"
      inkscape:label="tabs">
     <path
-       d="m 118.919,87.497 0,-57.735 z"
+       d="m 118.919,87.497 0,-57.735"
        style="fill:none;stroke:#ff0000;stroke-width:0.10000000000000001;stroke-opacity:1"
        id="path10"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       d="m 118.919,29.762 -57.735,0 z"
+       d="m 118.919,29.762 -57.735,0"
        style="fill:none;stroke:#ff0000;stroke-width:0.10000000000000001;stroke-opacity:1"
        id="path12"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       d="m 61.184,29.762 0,57.735 z"
+       d="m 61.184,29.762 0,57.735"
        style="fill:none;stroke:#ff0000;stroke-width:0.10000000000000001;stroke-opacity:1"
        id="path14"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       d="m 61.184,145.232 -57.735,0 z"
+       d="m 61.184,145.232 -57.735,0"
        style="fill:none;stroke:#ff0000;stroke-width:0.10000000000000001;stroke-opacity:1"
        id="path16"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       d="m 3.449,202.967 57.735,0 z"
+       d="m 3.449,202.967 57.735,0"
        style="fill:none;stroke:#ff0000;stroke-width:0.10000000000000001;stroke-opacity:1"
        id="path18"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       d="m 118.919,202.967 57.735,0 z"
+       d="m 118.919,202.967 57.735,0"
        style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-opacity:1"
        id="path20"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       d="m 176.654,145.232 -57.735,0 z"
+       d="m 176.654,145.232 -57.735,0"
        style="fill:none;stroke:#ff0000;stroke-width:0.10000000000000001;stroke-opacity:1"
        id="path22"
        inkscape:connector-curvature="0"
@@ -116,24 +116,24 @@
      inkscape:groupmode="layer"
      inkscape:label="foldlines-extended">
     <path
-       d="M 57.184, 87.497 122.919, 87.497 "
-       style="stroke:#00ff00;fill:none;stroke-width:0.10000000000000001;stroke-opacity:1"
+       d="M 57.184, 87.497 122.919, 87.497"
+       style="stroke:#00ff00;fill:none;stroke-width:0.1;stroke-opacity:1"
        id="path39" />
     <path
-       d="M 61.184, 206.967 61.184, 141.232 "
-       style="stroke:#00ff00;fill:none;stroke-width:0.10000000000000001;stroke-opacity:1"
+       d="M 61.184, 206.967 61.184, 141.232"
+       style="stroke:#00ff00;fill:none;stroke-width:0.1;stroke-opacity:1"
        id="path41" />
     <path
-       d="M 118.919, 206.967 118.919, 141.232 "
-       style="stroke:#00ff00;fill:none;stroke-width:0.10000000000000001;stroke-opacity:1"
+       d="M 118.919, 206.967 118.919, 141.232"
+       style="stroke:#00ff00;fill:none;stroke-width:0.1;stroke-opacity:1"
        id="path43" />
     <path
-       d="M 122.919, 145.232 57.184, 145.232 "
-       style="stroke:#00ff00;fill:none;stroke-width:0.10000000000000001;stroke-opacity:1"
+       d="M 122.919, 145.232 57.184, 145.232"
+       style="stroke:#00ff00;fill:none;stroke-width:0.1;stroke-opacity:1"
        id="path45" />
     <path
-       d="M 57.184, 202.967 122.919, 202.967 "
-       style="stroke:#00ff00;fill:none;stroke-width:0.10000000000000001;stroke-opacity:1"
+       d="M 57.184, 202.967 122.919, 202.967"
+       style="stroke:#00ff00;fill:none;stroke-width:0.1;stroke-opacity:1"
        id="path47" />
   </g>
   <g
@@ -163,24 +163,24 @@
      inkscape:groupmode="layer"
      inkscape:label="foldlines">
     <path
-       d="M 61.184, 87.497 118.919, 87.497 "
-       style="stroke:#0000ff;fill:none;stroke-width:0.10000000000000001;stroke-opacity:1"
+       d="M 61.184, 87.497 118.919, 87.497"
+       style="stroke:#0000ff;fill:none;stroke-width:0.1;stroke-opacity:1"
        id="path57" />
     <path
-       d="M 61.184, 202.967 61.184, 145.232 "
-       style="stroke:#0000ff;fill:none;stroke-width:0.10000000000000001;stroke-opacity:1"
+       d="M 61.184, 202.967 61.184, 145.232"
+       style="stroke:#0000ff;fill:none;stroke-width:0.1;stroke-opacity:1"
        id="path59" />
     <path
-       d="M 118.919, 202.967 118.919, 145.232 "
-       style="stroke:#0000ff;fill:none;stroke-width:0.10000000000000001;stroke-opacity:1"
+       d="M 118.919, 202.967 118.919, 145.232"
+       style="stroke:#0000ff;fill:none;stroke-width:0.1;stroke-opacity:1"
        id="path61" />
     <path
-       d="M 118.919, 145.232 61.184, 145.232 "
-       style="stroke:#0000ff;fill:none;stroke-width:0.10000000000000001;stroke-opacity:1"
+       d="M 118.919, 145.232 61.184, 145.232"
+       style="stroke:#0000ff;fill:none;stroke-width:0.1;stroke-opacity:1"
        id="path63" />
     <path
-       d="M 61.184, 202.967 118.919, 202.967 "
-       style="stroke:#0000ff;fill:none;stroke-width:0.10000000000000001;stroke-opacity:1"
+       d="M 61.184, 202.967 118.919, 202.967"
+       style="stroke:#0000ff;fill:none;stroke-width:0.1;stroke-opacity:1"
        id="path65" />
   </g>
   <g
